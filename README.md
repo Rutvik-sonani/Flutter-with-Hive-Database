@@ -1,4 +1,4 @@
-# hivedatabase3
+# Flutter with Hive Database
 
 A new Flutter project.
 
